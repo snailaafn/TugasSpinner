@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TugasSpinner</string>
+    <array name="repeat">
+        <item>Once</item>
+        <item>Daily</item>
+        <item>Mon to Fri</item>
+    </array>
+</resources>
